@@ -37,5 +37,3 @@ Create a .gitlab folder:
 
 `git add -f .gitlab`  
 
-
-

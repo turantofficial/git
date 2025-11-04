@@ -13,9 +13,5 @@ Steps:
 - In the last step create production branch from master
 
 
-Install gitlab runners to mautic b2b production and mautic b2c production
 
-**Install gitlab-runner on vm**:
-curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh | bash
-apt-get install -y gitlab-runner
 

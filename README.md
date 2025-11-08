@@ -1,4 +1,4 @@
-**Establish Deployment-Pipeline for production mautic**
+**Establish Deployment-Pipeline for dev / prod mautic**
 
 Steps: 
 
